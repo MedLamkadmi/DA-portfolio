@@ -1,20 +1,20 @@
 # Mohamed Lamkadmi — Data & AI Analytics Portfolio
 
-**AI & Data Analytics graduate student** at Durham College. Graduate thesis on multi-agent systems for supply chain optimization. 1st-place Decathlon hackathon winner.
+**AI & Data Analytics graduate student** at Durham College. Graduate thesis on multi-agent systems for supply chain optimization.
 
 ## Projects
 
-### Multi-Agent System for Supply Chain Optimization
-*Python, AnyLogic, SQL* — Coming soon
-Graduate thesis on multi-agent coordination for 3-tier supply chain networks. Reduced stockout events by 22%.
+### [Portfolio Risk Analysis](/portfolio-optimization)
+Python tool analyzing 5 stocks — calculates Sharpe ratios, volatility, and efficient frontier using Monte Carlo simulation. [View Code](/portfolio-optimization/portfolio_risk_analysis.py)
 
-### SQL Case Study — Sales Funnel Analysis
-*SQL (CTEs, Window Functions, Joins)* — [View file](sql_sales_funnel_analysis.sql)
-Business queries analyzing customer conversion patterns, segment performance, and revenue trends using a sample e-commerce dataset.
+### [Fixed Income Analytics](/fixed-income-analysis)
+Analysis of US Treasury yield trends, Macaulay/Modified Duration, convexity, and yield curve shifts. [View Code](/fixed-income-analysis/fixed_income_analytics.py)
 
-### Decathlon Hackathon (1st Place)
-*Python, Power BI* — Coming soon
-Predictive model for intern retention with real-time performance tracking dashboard.
+### [Financial Data Analysis — SQL Case Study](/financial-sql-analysis)
+6 analytical SQL queries for portfolio holdings, P&L, risk reporting, rebalancing, and yield impact scenarios. [View SQL](/financial-sql-analysis/financial_data_analysis.sql) | [Runnable Python Version](/financial-sql-analysis/run_analysis.py)
+
+### [Sales Funnel Analysis — SQL](/sql_sales_funnel_analysis.sql)
+Business queries analyzing customer conversion patterns using CTEs, window functions, and joins.
 
 ## Skills
 Power BI, Tableau, Python, SQL, Excel, Power Automate, Selenium, Azure, JIRA
